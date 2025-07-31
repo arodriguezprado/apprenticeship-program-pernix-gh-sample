@@ -83,7 +83,7 @@ Here are some resources to help you learn more about Git and GitHub:
 
 ## Contact
 
-For any questions or support, please reach out to the program coordinator at [apprentices@pernix.com].
+For any questions or support, please reach out to the program coordinator at [apprentices@pernix-solutions.com].
 
 ---
 
